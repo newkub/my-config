@@ -1,1 +1,0 @@
-- ใช้ turborepace ชื่อต้องมี @ เช่น @bts/wdesgn

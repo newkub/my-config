@@ -1,5 +1,5 @@
 {
-  "name": "@templates/dev-config",
+  "name": "@templates/my-config",
   "version": "0.0.4",
   "description": "Development configuration and tooling setup for Wrikka projects",
   "type": "module",
