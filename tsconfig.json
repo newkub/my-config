@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.base.json",
+  "display": "Modern Full Stack Configuration",
+  "include": ["**/*.{ts,tsx,js,jsx,vue,svelte,json}"],
+  "exclude": ["node_modules", "dist", "**/*.{spec,test,mock}.*", "**/__tests__/**"],
+  "references": [
+    {
+      "path": "./tsconfig.vite.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.bun.json"
+    }
+  ]
+}
